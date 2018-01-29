@@ -3,7 +3,7 @@
 
 ## Build
 ```sh
-docker build . -t garlic
+docker build . -t garlic-miner
 ```
 
 ## Run
